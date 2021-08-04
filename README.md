@@ -1,5 +1,5 @@
 #### Hi there 👋 I'm [Zain](https://github.com/zain148)
-## *A Top Rated Preferred Freelancer* .👨‍💻
+## *A Top Rated Preferred Freelancer.* 👨‍💻
 
 <br/>
 
@@ -21,22 +21,21 @@
 <p>
 A Skilled FullStack JavaScript Developer 🚀 from Pakistan. Always working on some project or learning something new!
 <br/>
-Stacks I have worked with :React Native(cli,expo) +Firebase,Api Integratios,React+firebase.
+Stacks I have worked with :React Native(cli,expo) +Firebase,Api Integratios,React+firebase,MERN.
 <br/>  
-Things I am currently experimenting with : NodeJS,mysql ...
+Things I am currently Learning : Flutter ...
 <br/>
 Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
 </p>
 
 
-  <img align="right" alt="GIF" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr" />
   
 ### ✨ Quick Facts
 
 - 👨🏽‍💻 I’m currently working working as a React Native Developer @ [Freelancer.com](https://www.freelancer.com/) and @ [Upwork.com] (http://upwork.com/)
-- - 🌱 I’m currently learning Unit-Testing and TypeScript.
+- - 🌱 I’m currently learning Flutter.
 <!--- 🤔 I’m looking for help for my future MERN projects.-->
-- 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
+- 💬 Ask me about anything related to JS, React Native, Redux, Firebase.(After googling it 😜😌)
 <!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
 - 🎿 Hobbies other than coding : Reading blogs or about History , Playing Chess , Playing games.
 - 📫 How to reach me: aman.atg001@gmail.com
