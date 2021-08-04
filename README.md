@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there 👋  I'm Zain 👨‍💻
 
-Hi there 👋, I'm Aman 👨‍💻
 
 Aman's LinkedinAman's TelegramAman Ansari | TwitterAman's Email
 
