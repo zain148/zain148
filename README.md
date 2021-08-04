@@ -1,4 +1,6 @@
-### Hi there 👋, I'm [Zain](https://github.com/zain148) 👨‍💻
+## Hi there 👋
+
+### I'm [Zain](https://github.com/zain148) a Top rated Preferred Freelancer 👨‍💻
 
 <br/>
 
@@ -18,11 +20,11 @@
 <br/>
 
 <p>
-A Skilled FullStack JavaScript Developer 🚀 from India. Always working on some project or learning something new!
+A Skilled FullStack JavaScript Developer 🚀 from Pakistan. Always working on some project or learning something new!
 <br/>
-Stacks I have worked with : MERN , React+Firebase , Meteor+React , Next+React.
+Stacks I have worked with :React Native(cli,expo) +Firebase , MERN.
 <br/>  
-Things I am currently experimenting with : jest , enzyme , typescript, ...
+Things I am currently experimenting with : typescript, ...
 <br/>
 Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
 </p>
@@ -32,8 +34,8 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working working as a Full Stack Developer @ [Antillia LLC](https://www.linkedin.com/company/antillia-llc)
-- 🌱 I’m currently learning Unit-Testing and TypeScript.
+- 👨🏽‍💻 I’m currently working working as a React Native Developer @ [Freelancer.com](https://www.freelancer.com/) and @ [Upwork.com] (http://upwork.com/)
+- - 🌱 I’m currently learning Unit-Testing and TypeScript.
 <!--- 🤔 I’m looking for help for my future MERN projects.-->
 - 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
 <!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
