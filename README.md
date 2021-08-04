@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm [Zain](https://github.com/zain148) a Top rated Preferred Freelancer 👨‍💻
+### I'm [Zain](https://github.com/zain148) a Top rated Preferred Freelancer. 👨‍💻
 
 <br/>
 
@@ -30,7 +30,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 </p>
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+  <img align="right" alt="GIF" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr" />
   
 ### ✨ Quick Facts
 
