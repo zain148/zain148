@@ -74,7 +74,7 @@ or [![Gmail Badge](https://img.shields.io/badge/-aman.atg001@gmail.com-c14438?st
 if you are on a similar path as mine.
 -->
 
-❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Aman_Ansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zain147/)](https://www.linkedin.com/in/zain147/)
+❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Zain147-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zain147/)](https://www.linkedin.com/in/zain147/)
 
 
 ----------------------------------------------------------
