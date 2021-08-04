@@ -1,7 +1,6 @@
-### Hi there 👋  I'm <h6> Zain 👨‍💻 </h6>
+### Hi there 👋  I'm Zain 👨‍💻 
 
-
-Aman's LinkedinAman's TelegramAman Ansari | TwitterAman's Email
+<link ahref="https://www.instagram.com/"/>
 
 A Skilled FullStack JavaScript Developer 🚀 from India. Always working on some project or learning something new!
 Stacks I have worked with : MERN , React+Firebase , Meteor+React , Next+React.
