@@ -35,7 +35,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 - 👨🏽‍💻 I’m currently working working as a React Native Developer @ [Freelancer](https://www.freelancer.com/) and @ [Upwork](https://www.upwork.com/)
 - - 🌱 I’m currently learning Flutter.
 <!--- 🤔 I’m looking for help for my future MERN projects.-->
-- 💬 Ask me about anything related to JS, React Native, Redux, Firebase.(After googling it 😜😌)
+- 💬 Ask me about anything related to JS,React , React Native, Redux, Firebase.(After googling it 😜😌)
 <!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
 - 🎿 Hobbies other than coding :Outing with Friends, Reading blogs or about History .
 - 📫 How to reach me:zainarshad119@gmail.com
