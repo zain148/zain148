@@ -25,6 +25,7 @@ Stacks I have worked with : React Native (cli,expo) +Firebase,Api Integration,Re
 <br/>  
 Things I am currently Learning : Flutter ...
 <br/>
+Project management and communication tools which i'm using : slack,trello,clickup,asana,zoom
 Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
 </p>
 
