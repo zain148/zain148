@@ -25,7 +25,6 @@ Stacks I have worked with : React Native (cli,expo) +Firebase,Api Integration,Re
 <br/>  
 Things I am currently Learning : Flutter ...
 <br/>
-Project management and communication tools which i'm using : slack,trello,clickup,asana,zoom
 Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
 </p>
 
@@ -39,6 +38,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 - 💬 Ask me about anything related to JS,React , React Native, Redux, Firebase.(After googling it 😜😌)
 <!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
 - 🎿 Hobbies other than coding :Outing with Friends, Reading blogs or about History .
+- Tools using: slack,trello,clickup,asana,zoom
 - 📫 How to reach me:zainarshad119@gmail.com
 
 ### 🛠️ Languages and Tools:
