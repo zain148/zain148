@@ -1,5 +1,5 @@
 #### Hi there 👋 I'm [Zain](https://github.com/zain148)
-##  A Top Rated Developer on Upwork and Freelancer. 👨‍💻
+##  A Top Rated Freelancer on Upwork and Freelancer. 👨‍💻
 
 <br/>
 
