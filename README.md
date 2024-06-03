@@ -21,9 +21,9 @@
 <p>
 A Skilled FullStack JavaScript Developer 🚀 from Pakistan. Always working on some project or learning something new!
 <br/>
-Stacks I have worked with : React Native (cli,expo) +Firebase,Api Integration,React + firebase, MERN.
+Stacks I have worked with : React Native (cli,expo) +Firebase,Api Integration,React + firebase.
 <br/>  
-Things I am currently Learning : Advance NodeJS,mongodb, NextJS, Typescript ...
+Things I am currently Learning : NextJS, Typescript, Supabase ...
 <br/>
 Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
 </p>
