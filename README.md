@@ -36,7 +36,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 <!--- 🤔 I’m looking for help for my future MERN projects.-->
 - 💬 Ask me about anything related to JS,React , React Native, Redux, Firebase.(After googling it 😜😌)
 <!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
-- 🎿 Hobbies other than coding :Outing with Friends, Reading blogs or about History .
+- 🎿 Hobbies other than coding :Outing with Friends, Reading blogs and know more about History .
 - Tools using: slack,trello,clickup,asana,zoom
 - 📫 How to reach me:zainarshad119@gmail.com
 
