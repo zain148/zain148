@@ -32,7 +32,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently  working as a React Native Developer @ [Freelancer](https://www.freelancer.com/) and @ [Upwork](https://www.upwork.com/)
+- 👨🏽‍💻 I’m currently working as a Lead React Native Developer @ [Freelancer](https://www.freelancer.com/) and @ [Upwork](https://www.upwork.com/)
 <!--- 🤔 I’m looking for help for my future MERN projects.-->
 - 💬 Ask me about anything related to JS,React , React Native, Redux, Firebase.(After googling it 😜😌)
 <!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
